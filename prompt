@@ -1,0 +1,1 @@
+Create code to train and test a gradient boost model using a typical machine learning pipeline. Using a fake dataset (classication), process it with the pipeline, split it into train/test and evaluate the performance. Use XGBoost. 
